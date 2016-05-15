@@ -1,0 +1,11 @@
+.DS_Store
+.gitignore~
+old/
+client/.meteor/
+client/**/*.js
+client/**/*.map
+node_modules/
+npm-debug.log
+*.bck
+*.js
+*.map

@@ -16,3 +16,17 @@ How to work with pipes in Angular2.
 </ul>
 
 # Learned so far
+<ul>
+    <li>What are Pipes?</li>
+    <li>How to use Pipes</li>
+    <li>Built-in Pipes</li>
+       <ul>
+          <li>Take a look at the Api Reference on Angular2 website!</li>
+       </ul>
+    <li>Custom Pipes</li>
+    <li>Stateful Pipes</li>
+    <li>Sixth Project - Shopping List 4.0</li>
+        <ul>
+           <li>See shopping repro here on github.</li>
+        </ul>
+</ul>
